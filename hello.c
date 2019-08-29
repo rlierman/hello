@@ -13,5 +13,8 @@ int main(int argc, char **argv) {
   printf("RJ Lierman and John Tencer\n");
 
   printf("Computer Science");
+  printf("John Tencer\n");
+  printf("Undecided\n");
+  
   return 0;
 }
